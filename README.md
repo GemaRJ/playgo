@@ -172,7 +172,7 @@ para traducción dinámica de textos.
 
 ---
 
-# 🤖 Chatbot Inteligente
+# 🤖 Chatbot asistente de navegación y soporte,
 
 Sistema de asistente virtual integrado:
 
